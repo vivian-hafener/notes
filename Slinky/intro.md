@@ -3,7 +3,7 @@
 
 ## Overview
 -----
-Slinky brings slurm functionality into Kubernetes - allowing simultaneous management of traditional HPC workloads alongide container-based workloads on the same infrastructure. This is intended to eliminate the need to manage separate clusters by combining workloads onto the same hardware. 
+Slinky brings slurm functionality into Kubernetes - allowing simultaneous management of traditional HPC workloads alongside container-based workloads on the same infrastructure. This is intended to eliminate the need to manage separate clusters by combining workloads onto the same hardware. 
 
 ### Core Concepts
 - Slurm was designed for traditional HPC workloads, while Kubernetes was designed for smaller, more ephemeral cloud workflows. This project combines the benefits of each approach into a cohesive compute solution. 
